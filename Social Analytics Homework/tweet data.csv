@@ -1,0 +1,6 @@
+User,Compound,Negative,Neutral,Positive,Tweet Count
+@BBC,0.0,1.0,0.0,0.0,100
+@CBS,0.077,0.933,0.0,0.067,100
+@CNN,0.422,0.674,0.112,0.213,100
+@FoxNews,0.077,0.951,0.0,0.049,100
+@nytimes,-0.51,0.879,0.121,0.0,100
