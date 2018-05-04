@@ -1,0 +1,3 @@
+#spotify token
+token = "8510db0527584ae091b9f0207f6a3199"
+secret = "015eb2da4359446eb33595a3517d3143"
